@@ -1,5 +1,9 @@
-## Hi there 👋
+## Hi there 👋  Nandhakishore NS here
+📫 How to reach me: nandhakishorens369@gmail.com | nandhakishore.ns2022@vitstudent.ac.in
+🔭 I’m currently working on an "Automated Table Lamp with ML and IoT". It turns on automatically when you take a book from the shelf. It predicts the light required for a person to read using Visual_Acuity, Age and Room_Type.
 
+## Number of Visitors ⚡
+![Work in progress to make a visitor counter](https://count.getloli.com/get/@:StrangeWanda?theme=nixietube-1)
 <!--
 **StrangeWanda/StrangeWanda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
